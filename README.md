@@ -1,12 +1,12 @@
-###  Olá, sou a Melyssa Schramm!
+###  Olá, eu sou a Melyssa! Seja bem vindo!
 
+- 📚 Estudando desenvolvimento front-end e aprendendo a fazer programas.
 - 👩‍💻 Cursando Desenvolvimento de Sistemas na Etec;
 - 🔒 Segurança Cibernética Fundamental na Novotec;
-- 📚 Estudando desenvolvimento front-end e aprendendo a fazer programas.
+
 ##
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=melyschr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melyschr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
