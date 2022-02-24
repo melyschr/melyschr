@@ -1,11 +1,11 @@
-###  Olá, eu sou a Melyssa! Seja bem vindo!
+###  Olá, eu sou a Melyssa!
 
-- 📚 Estudando desenvolvimento front-end
-- 👩‍💻 Cursando Desenvolvimento de Sistemas na Etec
-- 🔒 Segurança Cibernética Fundamental na Novotec
+- 💻 Programadora Python, Javascript e C++;
+- 👩‍💻 Cursando Desenvolvimento de Sistemas na Etec;
+- 🔒 Segurança Cibernética pelo Senac;
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/melyschr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melyschr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
