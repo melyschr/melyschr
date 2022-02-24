@@ -4,11 +4,6 @@
 - 👩‍💻 Cursando Desenvolvimento de Sistemas na Etec;
 - 🔒 Segurança Cibernética pelo Senac;
 
-<div align="center">
-  <a href="https://github.com/melyschr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melyschr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
 <div style="display: inline_block" align="center"><br>
   <img alt="Melyssa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Melyssa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
