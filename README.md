@@ -1,4 +1,4 @@
-##  Olá, eu sou a Melyssa!
+#  Olá, eu sou a Melyssa!
 
 - 💻 Programadora Python, Javascript e C++;
 - 👩‍💻 Cursando Desenvolvimento de Sistemas na Etec;
