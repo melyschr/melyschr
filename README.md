@@ -13,7 +13,7 @@
   <img alt="Melyssa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>  
 <div style="display: block" align="left"><br>  
-   <img alt="Melyssa-Kali" height="30" width="40" src="https://w7.pngwing.com/pngs/600/114/png-transparent-dragon-kali-linux-android-linux-logo-silhouette-linux.png">
+   <img alt="Melyssa-Kali" height="30" width="40" src="https://cdn.discordapp.com/attachments/760359864764727296/946224469423325184/Remini20220223225738258-removebg-preview.png">
    <img alt="Melyssa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img alt="Melyssa-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
    <img alt="Melyssa-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
