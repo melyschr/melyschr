@@ -22,5 +22,5 @@
   <a href = "mailto:melyschr.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div style="display: inline_block" align="left">
-    <img alt="Melyssa-Badge-Cisco" scr="https://images.credly.com/size/220x220/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
+    <img alt="Melyssa-Badge-Cisco" scr="https://images.credly.com/size/30x40/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
 </div>
