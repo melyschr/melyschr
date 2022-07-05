@@ -21,4 +21,8 @@
 <div align="left">
   <a href = "mailto:melyschr.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1c302e31-7069-4dc5-9b05-fceff1d78d67" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"> </script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1c302e31-7069-4dc5-9b05-fceff1d78d67" data-share-badge-host="https://www.credly.com">
+  <img alt="Melyssa-Badge-Cisco" scr="https://images.credly.com/size/220x220/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height="40" width="50" ></img>
+</div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"> </script>
