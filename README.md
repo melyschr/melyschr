@@ -24,6 +24,6 @@
 </div>
 <br>
 <div align="left"><br>
-  <a href = "https://www.credly.com/badges/1c302e31-7069-4dc5-9b05-fceff1d78d67/public_url"><img src="https://images.credly.com/size/220x220/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" target="_blank"></a>
+  <a href = "https://www.credly.com/badges/1c302e31-7069-4dc5-9b05-fceff1d78d67/public_url"><img src="https://images.credly.com/size/60x60/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" target="_blank"></a>
 </div>
 
