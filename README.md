@@ -1,7 +1,7 @@
 ####  Olá, eu sou a Melyssa!
 
 - 💻 Estudante brasileira de programação Python e Desenvolvimento Web;
-- 🔒 Segurança Cibernética no Senac;
+- 🔒 Segurança Cibernética;
 
 <div style="display: inline_block" align="left"><br>
   <img alt="Melyssa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
