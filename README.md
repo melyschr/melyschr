@@ -1,6 +1,6 @@
-####  Olá, eu sou a Melyssa!
+####  Olá, sejam bem vindos!
 
-- 💻 Estudante brasileira de programação Python e Desenvolvimento Web;
+- 💻 Estudante de Python e Desenvolvimento Web;
 - 🔒 Segurança Cibernética;
 
 <div style="display: inline_block" align="left"><br>
