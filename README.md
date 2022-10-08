@@ -1,15 +1,13 @@
 ####  Olá, eu sou a Melyssa!
 
-- 💻 Programadora Python, Javascript e C++;
-- 👩‍💻 Cursando Desenvolvimento de Sistemas na Etec;
-- 🔒 Segurança Cibernética pelo Senac;
+- 💻 Estudante brasileira de programação Python e Desenvolvimento Web;
+- 🔒 Segurança Cibernética no Senac;
 
 <div style="display: inline_block" align="left"><br>
   <img alt="Melyssa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Melyssa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Melyssa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Melyssa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Melyssa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Melyssa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>  
 <div style="display: block" align="left"><br>  
