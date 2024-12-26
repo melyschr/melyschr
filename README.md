@@ -1,6 +1,6 @@
 ####  HI, WELCOME! 🇧🇷
 
-- 💻 I'm Science Computer studenty and devoloper;
+- 💻 I'm computer science student and devoloper;
 - 👾 I love gaming and cyber security;
 
 <div style="display: flex" align="left"><br>
