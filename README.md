@@ -1,4 +1,4 @@
-####  HI! I'M MELYSSA 🇧🇷
+####  HI, WELCOME! 🇧🇷
 
 - 💻 I'm Science Computer studenty and devoloper;
 - 👾 I love gaming and cyber security;
