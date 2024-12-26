@@ -1,6 +1,6 @@
 ####  HI! I'M MELYSSA 🇧🇷
 
-- 💻 Studying python and web wevelopment;
+- 💻 I'm Science Computer studenty and devoloper;
 - 👾 I love gaming and cyber security;
 
 <div style="display: inline_block" align="left"><br>
