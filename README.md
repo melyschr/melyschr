@@ -28,7 +28,7 @@
   <a href = "https://www.credly.com/badges/1c302e31-7069-4dc5-9b05-fceff1d78d67/public_url"><img alt="Melyssa-Badge" height="60" width="60" src="https://images.credly.com/size/220x220/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" /></a>
 </div>
 </div>  
-<div style="display: flex" align="left"><br>
+<div style="display: inline-block" align="left"><br>
   <a href = "https://www.credly.com/badges/6c129a33-3f42-47e7-93e7-4d078e752de1"><img alt="Melyssa-Badge" height="60" width="60" src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" /></a>
 </div>
 <br>
