@@ -1,7 +1,7 @@
 ####  HI, WELCOME! 🇧🇷
 
 - 💻 I'm computer science student and devoloper;
-- 👾 I love gaming and cyber security;
+- 👾 I love gaming and security;
   
 - 👨‍💻 Acess my new project: [Tela de Login](https://melyschr.github.io/loginscreen/)
 
