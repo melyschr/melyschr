@@ -31,4 +31,7 @@
 <br>
 <div align="left">
   <a href = "mailto:melyschr.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/melyssa-schramm/"><img src="https://img.shields.io/badge/LinkedIn-%25?style=for-the-badge&logo=linkedIn&logoColor=white&color=blue
+" target="_blank"></a>
 </div>
+
