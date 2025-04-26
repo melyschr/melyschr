@@ -1,7 +1,7 @@
-####  HI, WELCOME! 🇧🇷
+####  HI, WELCOME! 🇧🇷 🇺🇸 🇫🇷 🇮🇹
 
 - 💻 I'm computer science student and devoloper;
-- 👾 I love gaming and security;
+- 👾 I love games & security;
 
 <div style="display: flex" align="left"><br>
   <img alt="Melyssa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
