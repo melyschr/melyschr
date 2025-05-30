@@ -1,4 +1,4 @@
-####  HI, WELCOME! 🇧🇷 🇺🇸 🇫🇷 🇮🇹
+####  HI, WELCOME! 🇧🇷 🇺🇸 🇫🇷
 
 - 💻 I'm computer science student and devoloper;
 - 👾 I love games & security;
