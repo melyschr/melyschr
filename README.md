@@ -3,6 +3,7 @@
 - 💻 I'm computer science student and devoloper;
 - 👾 I love games & security;
 
+
 <div style="display: flex" align="left"><br>
   <img alt="Melyssa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Melyssa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,6 +31,8 @@
 <div align="left">
   <a href = "mailto:melyschr.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/melyssa-schramm/"><img src="https://img.shields.io/badge/LinkedIn-%25?style=for-the-badge&logo=linkedIn&logoColor=white&color=blue
+" target="_blank"></a>
+  <a href = "https://www.instagram.com/melycode"><img src="https://img.shields.io/badge/Instagram-%25?style=for-the-badge&logo=instagram&logoColor=white&color=blue
 " target="_blank"></a>
 </div>
 
