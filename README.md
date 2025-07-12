@@ -1,6 +1,6 @@
-####  HI, WELCOME! 🇧🇷 🇺🇸 🇫🇷
+####  HI, WELCOME! BR
 
-- 💻 I'm computer science student and devoloper;
+- 💻 I'm 20 years old, Brazilian, computer science student and devoloper;
 - 👾 I love games & security;
 
 
