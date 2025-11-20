@@ -1,6 +1,6 @@
 ####  HI, WELCOME! BR
 
-- 💻 I'm 20 years old, Brazilian, computer science student and devoloper;
+- 💻 I'm 21 years old, Brazilian, computer science student and developer;
 - 👾 I love games & security;
 
 
@@ -18,11 +18,7 @@
   <img alt="Melyssa-Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img alt="Melyssa-Kali" height="30" width="40" src="https://img.icons8.com/?size=256&id=101665&format=png">
           
-  
-          
-
-
-          
+    
 </div>  
 <div style="display: flex" align="left"><br>
   <a href = "https://www.credly.com/badges/1c302e31-7069-4dc5-9b05-fceff1d78d67/public_url"><img alt="Melyssa-Badge" height="70" width="70" src="https://images.credly.com/size/220x220/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" /></a>
