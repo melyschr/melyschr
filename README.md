@@ -32,5 +32,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)"></a>
   <a href = "https://www.behance.net/melyssa-rosa" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"</a>
+    <a href = "https://linkedin.com/in/melyssa-schramm" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/melyssa-schramm"</a>
 </div>
 
